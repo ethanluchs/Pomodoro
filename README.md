@@ -1,6 +1,6 @@
 Pomodoro study timer for personal use with a cool animated background
 
-Skills learned - React, Figma, Webpack
+Skills learned - React, Figma, Webpack <br/>
 Skills practiced - HTML/CSS, Javascript
 
 Initial Design
